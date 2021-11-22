@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #deeebf;
+  background-color: #00ff4c;
   font-family: 'Poppins', sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -40,7 +40,7 @@ body {
 }
 
 .note .tools {
-  background-color: #9ec862;
+  background-color: #ffa600;
   display: flex;
   justify-content: flex-end;
   padding: 0.5rem;
